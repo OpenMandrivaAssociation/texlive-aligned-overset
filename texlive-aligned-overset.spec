@@ -3,7 +3,7 @@ Version:	47290
 Release:	2
 Summary:	Fix alignment at \overset or \underset
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/aligned-overset
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/aligned-overset
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/aligned-overset.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/aligned-overset.doc.r%{version}.tar.xz
